@@ -15,5 +15,5 @@ The second mandatory assignment.
 ```
 ### inf5860_oblig03
 ```
-The third mandatory assignment
+The third mandatory assignment.
 ```
