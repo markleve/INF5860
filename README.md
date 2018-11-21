@@ -6,16 +6,14 @@ The answer for each mandatory assignment is found within a jupyter notebook file
 task was to complete missing segments and get the code to work, while working through different machine learning algorithms.
 
 ### inf5860_oblig01
-´´´
+```
 The first mandatory assignment. 
-´´´
-
+```
 ### inf5860_oblig02
-´´´
+```
 The second mandatory assignment.
-´´´
-
+```
 ### inf5860_oblig03
-´´´
+```
 The third mandatory assignment
-´´´
+```
